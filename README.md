@@ -7,7 +7,7 @@ npm run ngc
 
 #### Errors present
 - in app/input.component.ts <br/>
-  => selector: 'input[playground-input]' <br/>
+  => selector: 'input[playground-input]' compile error <br/>
   => there is no </input> in the whole project <br/>
 
 - in app/form.component.ts <br/>
