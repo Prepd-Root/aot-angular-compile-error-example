@@ -3,4 +3,4 @@ Example for a problem with AOT angular 2 compilation.
 
 To run : <br/>
 npm i <br/>
-ngc
+npm run ngc
