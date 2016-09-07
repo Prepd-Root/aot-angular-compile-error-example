@@ -6,10 +6,10 @@ npm i <br/>
 npm run ngc
 
 #### Errors present
-- in app/input.component.ts
-  => selector: 'input[playground-input]' 
-  => there is no </input> in the whole project
+- in app/input.component.ts <br/>
+  => selector: 'input[playground-input]' <br/>
+  => there is no </input> in the whole project <br/>
 
-- in app/form.component.ts
-  => form.controls.first compile error
-  => there is no minify or code modification done before ngc
+- in app/form.component.ts <br/>
+  => form.controls.first compile error <br/>
+  => there is no minify or code modification done before ngc <br/>
